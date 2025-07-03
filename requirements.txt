@@ -1,0 +1,11 @@
+# Streamlit web app
+streamlit>=1.30.0
+
+# YOLOv8 object detection framework
+ultralytics>=8.0.0
+
+# OpenCV for image processing
+opencv-python-headless>=4.7.0.72
+
+# Torch (installed automatically with ultralytics, but you can pin a version if needed)
+# torch>=2.0.0
